@@ -4,7 +4,6 @@
 <h1 align="center">Hi, I'm Meheret! 👋</h1>
 <h3 align="center"> Healthcare Analyst & Clinical Researcher   
 
-<hr>
 <hr> 
 
 <h2>👩🏻‍💻 Data Analytic Projects:</h2>
