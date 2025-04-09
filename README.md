@@ -7,25 +7,25 @@
 
 <h2>👩🏻‍💻 Data Analytic Projects:</h2>
 
- **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**- Data Bootcamp Capstone Project
+- **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**- Data Bootcamp Capstone Project
   
- **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
+- **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
 
 
 
 <h3>Currently Working On:</h3>
 
-**[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
+- **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
-**[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
+- **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
  
 
 <h2>💼Miscellaneous:</h2>
 
-<b>[SQL Practice ](https://github.com/Meret433/SQL-Practice)</b>- For skill improvement purposes
+- <b>[SQL Practice ](https://github.com/Meret433/SQL-Practice)</b>- For skill improvement purposes
   
-<b>[Python Practice ](https://github.com/Meret433/Python-Practice)</b>- For skill improvement purposes
+- <b>[Python Practice ](https://github.com/Meret433/Python-Practice)</b>- For skill improvement purposes
 
 
 
