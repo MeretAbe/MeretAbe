@@ -23,9 +23,9 @@
 
 <h2>💼Miscellaneous:</h2>
 
-- <b>[SQL Practice ](https://github.com/Meret433/SQL-Practice)</b>- For skill improvement purposes
+<b>[SQL Practice ](https://github.com/Meret433/SQL-Practice)</b>- For skill improvement purposes
   
-- <b>[Python Practice ](https://github.com/Meret433/Python-Practice)</b>- For skill improvement purposes
+<b>[Python Practice ](https://github.com/Meret433/Python-Practice)</b>- For skill improvement purposes
 
 
 
@@ -33,9 +33,9 @@
 
 <h2>📄Certifications:</h2>
 
-- [**Suffolk University Data Analytics Bootcamp**](  )
-- [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
-- [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
+[**Suffolk University Data Analytics Bootcamp**](  )
+[**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
+[**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
 
 <hr>
 
