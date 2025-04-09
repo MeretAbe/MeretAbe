@@ -21,7 +21,7 @@
 
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
-
+<hr> 
 
 <h2>💼Miscellaneous:</h2>
 
