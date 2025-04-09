@@ -19,18 +19,15 @@
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
-
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
 
 
 <h2>💼Miscellaneous:</h2>
 
-- <b> SQL Exercises(For skill improvement purposes) </b>
-  - [SQL Practice ](https://github.com/Meret433/SQL-Practice)
+- <b> SQL Exercises(For skill improvement purposes) </b>[SQL Practice ](https://github.com/Meret433/SQL-Practice)
  
-- <b> Python Exercises(For skill improvement purposes) </b>
-  - [Python Practice ](https://github.com/Meret433/Python-Practice)
+- <b> Python Exercises(For skill improvement purposes) </b>[Python Practice ](https://github.com/Meret433/Python-Practice)
 
 <hr> 
 
