@@ -5,6 +5,7 @@
 <h3 align="center"> Healthcare Analyst & Clinical Researcher   
 
 <hr>
+<hr> 
 
 <h2>👩🏻‍💻 Data Analytic Projects:</h2>
 
@@ -14,14 +15,13 @@
 
 
 
-
 <h3>🌱Currently Working On:</h3>
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
-<hr> 
+ 
 
 <h2>💼Miscellaneous:</h2>
 
@@ -31,7 +31,7 @@
 
 
 
-<hr> 
+
 
 <h2>📄Certifications:</h2>
 
