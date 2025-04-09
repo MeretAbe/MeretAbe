@@ -26,13 +26,11 @@
 
 <h2>💼Miscellaneous:</h2>
 
-**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
-
-**[Python Practice](https://github.com/Meret433/Python-Practice)**
-
-
-- <b> SQL Exercises(for skill improvement purposes) </b>
+- <b> SQL Exercises(For skill improvement purposes) </b>
   - [SQL Practice ](https://github.com/Meret433/SQL-Practice)
+ 
+- <b> Python Exercises(For skill improvement purposes) </b>
+  - [Python Practice ](https://github.com/Meret433/Python-Practice)
 
 <hr> 
 
