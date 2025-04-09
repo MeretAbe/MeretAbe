@@ -33,9 +33,9 @@
 
 <h2>📄Certifications:</h2>
 
-[**Suffolk University Data Analytics Bootcamp**](  )
-[**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
-[**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
+- [**Suffolk University Data Analytics Bootcamp**](  )
+- [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
+- [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
 
 <hr>
 
