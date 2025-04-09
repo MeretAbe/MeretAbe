@@ -39,9 +39,9 @@
 
 <hr>
 
-# 🤳Connect with Me:
+<h2>🤳Connect with Me:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/meheret-abebe/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin: 10px;">
   </a>
