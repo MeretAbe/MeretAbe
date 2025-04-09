@@ -8,21 +8,21 @@
 
 <h2>👩🏻‍💻 Data Analytic Projects:</h2>
 
- **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+ **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**- Data Bootcamp Capstone Project
   
  **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
 
 
 
 
-# 🌱Currently Working On:
+<h2>🌱Currently Working On:<h2>
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
 
-# 💼Miscellaneous:
+<h2>💼Miscellaneous:<h2>
 
 **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
 
@@ -30,7 +30,7 @@
 
 <hr> 
 
-# 📄Certifications:
+<h2>📄Certifications:<h2>
 
 - [**Suffolk University Data Analytics Bootcamp**](  )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
