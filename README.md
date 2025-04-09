@@ -1,7 +1,74 @@
-## Hi there 👋
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+<h1 align="center">Hi, I'm Meheret! 👋</h1>
+<h3 align="center"> Healthcare Analyst & Clinical Researcher   
+
+<hr>
+
+# 👩🏻‍💻Data Analytic Projects:
+ 
+**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+
+**[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
+
+
+
+# 🌱Currently Working On:
+
+**[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
+
+**[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
+
+# 💼Miscellaneous:
+
+**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
+
+**[Python Practice](https://github.com/Meret433/Python-Practice)**
+
+<hr> 
+
+# 📄Certifications:
+
+- [**Suffolk University Data Analytics Bootcamp**](  )
+- [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
+- [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
+
+<hr>
+
+# 🤳Connect with Me:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/meheret-abebe/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin: 10px;">
+  </a>
+
+
+</div>
+
 
 <!--
-**MeretAbe/MeretAbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Meheret, a <a href="https://www.linkedin.com/in/meheret-abebe/">Data Analytics Professional</a></h1>
+
+
+
+<h2>Data Analytics Projects:</h2>
+
+- <b>SQL Practice </b>
+  - [SQL Practice](https://github.com/Meret433/SQL-Practice)
+- <b>Python Practice</b>
+  - [Python Practice](https://github.com/Meret433/Python-Practice)<b>
+- <b>Portfolio-Project</b>
+  - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
+  - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/meheret-abebe/
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +80,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<hr>
+
 -->
+
