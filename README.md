@@ -6,7 +6,7 @@
 
 <hr>
 
-# 👩🏻‍💻Data Analytic Projects:
+#👩🏻‍💻Data Analytic Projects:
  
 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
@@ -14,13 +14,14 @@
 
 
 
-# 🌱Currently Working On:
+#🌱Currently Working On:
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
-# 💼Miscellaneous:
+
+#💼Miscellaneous:
 
 **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
 
