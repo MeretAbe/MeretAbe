@@ -15,7 +15,7 @@
 
 
 
-<h2>🌱Currently Working On:<h2>
+<h2>🌱Currently Working On:</h2>
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
 
@@ -24,7 +24,7 @@
 
 
 
-<h2>💼Miscellaneous:<h2>
+<h2>💼Miscellaneous:</h2>
 
 **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
 
@@ -34,7 +34,7 @@
 
 <hr> 
 
-<h2>📄Certifications:<h2>
+<h2>📄Certifications:</h2>
 
 - [**Suffolk University Data Analytics Bootcamp**](  )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
