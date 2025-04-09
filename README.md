@@ -31,6 +31,8 @@
 **[Python Practice](https://github.com/Meret433/Python-Practice)**
 
 
+- <b> SQL Exercises(for skill improvement purposes) </b>
+  - [SQL Practice ](https://github.com/Meret433/SQL-Practice)
 
 <hr> 
 
