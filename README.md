@@ -6,7 +6,7 @@
 
 <hr>
 
-#👩🏻‍💻Data Analytic Projects:
+<h2>👩🏻‍💻Data Analytic Projects:
  
 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
