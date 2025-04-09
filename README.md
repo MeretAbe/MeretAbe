@@ -15,11 +15,13 @@
 <h2>👩🏻‍💻 Data Analytic Projects:</h2>
 
 - <b> Olympic Performance (Data Bootcamp Capstone Project)</b>
-  - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
-    
+   **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+  
   **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
 
 
+
+- [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
 
  
  - <b> Worldwide- Covid Tracking </b>
