@@ -33,7 +33,7 @@
 
 <h2>📄Certifications:</h2>
 
-- [**Suffolk University Data Analytics Bootcamp**](  )
+- [**Suffolk University Data Analytics Bootcamp**]( file:///C:/Users/meher/Downloads/Data%20Analytics%20Cert%20-%20Meheret%20Abebe.pdf )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
 - [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
 
